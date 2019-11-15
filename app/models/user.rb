@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+# rubocop:disable Style/Documentation
+
 class User < ApplicationRecord
   before_save { self.email = email.downcase }
   validates :name, presence: true, length: { minimum: 3, maximum: 50 }
@@ -12,3 +14,5 @@ class User < ApplicationRecord
   has_many :posts
   has_many :comments
 end
+
+# rubocop:enable Style/Documentation
