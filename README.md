@@ -24,7 +24,7 @@ This project was executed by:
 - [x] Apply has_many :comments to User model
 - [x] Apply has_many :posts to User model
 - [x] Added test entries for users, comments ans posts
-- [x] Create validations for user, comment and post models
+- [x] Create validations for user, comment and post models.
 ​
 ## Setup
 ​
