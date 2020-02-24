@@ -28,7 +28,7 @@ git clone https://github.com/marcos-medeiros/micro-reddit.git
 - GitHub: [marcos-medeiros](https://github.com/marcos-medeiros)
 - LinkedIn: [Marcos Medeiros](https://linkedin.com/in/marcosmedeiros-dev)
 
-👤 **Luis Novoa**
+👤 **Damilola Ale**
 
 - GitHub: [damiecode](https://github.com/damiecode)
 - Linkedin: [Damilola Ale](https://www.linkedin.com/in/damiecode/)
